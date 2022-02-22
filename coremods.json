@@ -1,1 +1,12 @@
-
+[
+  {
+    "name": "ZenithCore",
+    "owner": "Christoffyw",
+    "repo": "ZenithCore"
+  },
+  {
+    "name": "ZenithTestMod",
+    "owner": "Christoffyw",
+    "repo": "ZenithTestMod"
+  }
+]
